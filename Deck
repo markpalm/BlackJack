@@ -40,7 +40,7 @@ class Deck{
 			cards[j][0] = "King";
 			j++;
 		}
-		// done making deck
+
 
 		// Initialize deck
 		cardsUsed = 0;
